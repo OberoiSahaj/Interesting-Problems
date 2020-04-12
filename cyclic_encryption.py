@@ -1,9 +1,13 @@
 '''
+QUESTION:
+
 For a given phrase, we need to encrypt with the help of cyclic shift in their reversed indices:
+
 
 INPUT:
 
 yum
+
 
 OUTPUT:
 
